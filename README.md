@@ -9,7 +9,7 @@
 
   <div style="display: flex; align-items: flex-start; margin-left: 18px;">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ontami&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ontami&theme=tokyonight/)
 
   </div>
 
